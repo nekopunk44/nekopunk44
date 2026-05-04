@@ -1,27 +1,35 @@
-# Vladislav Bredihin
+<p align="center">
+  <img src="./assets/profile-strip.svg" alt="portfolio.os profile strip" />
+</p>
 
-Fullstack developer building product-style websites, motion-led interfaces, and fullstack systems that need more than generic polish.
+<p align="center">
+  <a href="https://github.com/nekopunk44/portfolio-os">showcase</a>
+  |
+  <a href="https://t.me/momentumx_dev">telegram</a>
+  |
+  <a href="mailto:vladbredihin4@gmail.com">email</a>
+</p>
+
+```txt
+~/whoami
+Vladislav Bredihin
+Fullstack developer building product-style websites, motion-led interfaces,
+and fullstack systems that need more than generic polish.
+```
+
+## `~/about`
 
 I like projects that feel composed, memorable, and commercially sharp.
 
-## What I build
+- Product-style frontend with stronger presentation
+- Fullstack execution from idea to deploy
+- Interfaces where motion and hierarchy actually matter
+- Concepts that need both engineering and taste
 
-- Websites with stronger visual direction and product-style presentation
-- Fullstack apps that go from idea to deploy without losing clarity
-- Interactive showcases, dashboards, and interfaces with motion
-- Concepts that need both engineering and taste, not only implementation
-
-## What makes my work different
-
-- I care about how a product feels, not only whether it works
-- I like structure, hierarchy, and cleaner storytelling around the build
-- I am strongest when presentation and implementation matter equally
-- I prefer projects with identity over projects that look assembled from patterns
-
-## Selected work
+## `~/selected-work`
 
 - [portfolio-os](https://github.com/nekopunk44/portfolio-os)  
-  Main showcase repository for my GitHub-facing presentation and visual direction.
+  Main showcase repository based on my current terminal-style portfolio direction.
 
 - [MomentumX](https://github.com/nekopunk44/MomentumX)  
   Agency-style platform focused on identity, offer framing, and stronger presentation.
@@ -32,11 +40,26 @@ I like projects that feel composed, memorable, and commercially sharp.
 - [Avtotime](https://github.com/nekopunk44/Avtotime)  
   Larger fullstack platform scope with community, marketplace, and realtime flows.
 
-## Working with
+<details>
+  <summary><code>~/stack</code></summary>
 
-`TypeScript` `React` `Next.js` `Node.js` `.NET` `MongoDB` `PostgreSQL` `Docker` `Three.js`
+  <br />
 
-## Reach out
+  `TypeScript` `React` `Next.js` `Node.js` `.NET` `MongoDB` `PostgreSQL` `Docker` `Three.js`
+</details>
+
+<details>
+  <summary><code>~/current-focus</code></summary>
+
+  <br />
+
+  - Cleaner GitHub-facing case studies
+  - Stronger frontend motion without template energy
+  - Better visual identity across repos
+  - Projects that feel like products, not dumps
+</details>
+
+## `~/reach-out`
 
 - Telegram: [@momentumx_dev](https://t.me/momentumx_dev)
 - GitHub: [github.com/nekopunk44](https://github.com/nekopunk44)
