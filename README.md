@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-strip.svg" alt="portfolio.os profile strip" />
+  <img src="./assets/profile-strip-hero3d.svg" alt="portfolio.os profile strip" />
 </p>
 
 <p align="center">

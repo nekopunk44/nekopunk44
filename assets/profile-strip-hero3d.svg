@@ -2,19 +2,21 @@
   <defs>
     <linearGradient id="bg" x1="36" y1="18" x2="858" y2="224" gradientUnits="userSpaceOnUse">
       <stop stop-color="#040608"/>
-      <stop offset="0.58" stop-color="#080B0D"/>
+      <stop offset="0.6" stop-color="#090B0E"/>
       <stop offset="1" stop-color="#101417"/>
     </linearGradient>
     <linearGradient id="panel" x1="40" y1="26" x2="854" y2="214" gradientUnits="userSpaceOnUse">
       <stop stop-color="#070A0D"/>
-      <stop offset="1" stop-color="#0D1217"/>
-    </linearGradient>
-    <linearGradient id="wire" x1="630" y1="52" x2="792" y2="184" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#B6FFCA"/>
-      <stop offset="0.35" stop-color="#7DFF9E"/>
-      <stop offset="1" stop-color="#46C96E"/>
+      <stop offset="1" stop-color="#0C1116"/>
     </linearGradient>
     <filter id="wireGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="dotGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2.4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -36,6 +38,13 @@
     <path d="M640 34V206"/>
   </g>
 
+  <g opacity="0.08">
+    <path d="M782 38V202" stroke="#7DFF9E"/>
+    <path d="M818 52V186" stroke="#7DFF9E"/>
+    <path d="M854 44V196" stroke="#7DFF9E"/>
+    <path d="M744 48V192" stroke="#7DFF9E"/>
+  </g>
+
   <g opacity="0.12" fill="#7DFF9E">
     <circle cx="48" cy="78" r="2.8"/>
     <circle cx="64" cy="94" r="2.2"/>
@@ -43,6 +52,9 @@
     <circle cx="100" cy="110" r="1.9"/>
     <circle cx="118" cy="84" r="2.1"/>
     <circle cx="96" cy="140" r="2.4"/>
+    <circle cx="760" cy="68" r="2.2"/>
+    <circle cx="838" cy="92" r="2"/>
+    <circle cx="846" cy="166" r="2.1"/>
   </g>
 
   <circle cx="50" cy="50" r="5" fill="#FB7185"/>
@@ -57,27 +69,39 @@
 
   <path d="M48 194H320" stroke="#2B3440"/>
 
-  <g filter="url(#wireGlow)" stroke="url(#wire)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M718 28L792 54L840 112L828 170L774 210L702 222L634 204L594 154L594 92L632 46L718 28Z"/>
-    <path d="M594 92L690 74L792 54"/>
-    <path d="M594 154L694 174L828 170"/>
-    <path d="M632 46L676 104L702 222"/>
-    <path d="M718 28L734 120L774 210"/>
-    <path d="M840 112L734 120L634 204"/>
-    <path d="M632 46L792 54L828 170L702 222L594 92L718 28"/>
-    <path d="M594 154L718 28"/>
-    <path d="M632 204L792 54"/>
-    <path d="M594 92L828 170"/>
-    <path d="M676 104L840 112"/>
-    <path d="M676 104L594 154"/>
-    <path d="M676 104L734 120"/>
-    <path d="M734 120L594 92"/>
-    <path d="M734 120L702 222"/>
-    <path d="M734 120L632 204"/>
-    <path d="M676 104L774 210"/>
+  <g filter="url(#wireGlow)" stroke="#7DFF9E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M722 30L786 54L832 104L824 166L778 208L716 220L656 202L620 154L622 92L658 46L722 30Z"/>
+    <path d="M658 46L706 84L786 54"/>
+    <path d="M622 92L706 84L832 104"/>
+    <path d="M620 154L700 170L824 166"/>
+    <path d="M656 202L700 170L778 208"/>
+    <path d="M658 46L700 170"/>
+    <path d="M786 54L700 170"/>
+    <path d="M832 104L700 170"/>
+    <path d="M824 166L700 170"/>
+    <path d="M778 208L700 170"/>
+    <path d="M716 220L700 170"/>
+    <path d="M656 202L700 170"/>
+    <path d="M620 154L700 170"/>
+    <path d="M622 92L700 170"/>
+    <path d="M722 30L700 170"/>
+    <path d="M658 46L716 220"/>
+    <path d="M786 54L656 202"/>
+    <path d="M832 104L716 220"/>
+    <path d="M620 154L778 208"/>
+    <path d="M622 92L824 166"/>
   </g>
 
-  <g opacity="0.22" stroke="#DDE6E1" stroke-width="1.1">
-    <path d="M704 92L738 112L726 154L690 134L704 92Z"/>
+  <g opacity="0.42" stroke="#E5E7EB" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M690 98L726 86L742 120L718 152L676 140L690 98Z"/>
+    <path d="M690 98L718 152"/>
+    <path d="M726 86L676 140"/>
+  </g>
+
+  <g filter="url(#dotGlow)" fill="#7DFF9E">
+    <circle cx="716" cy="220" r="3.6"/>
+    <circle cx="778" cy="208" r="3.2"/>
+    <circle cx="824" cy="166" r="3"/>
+    <circle cx="658" cy="46" r="2.8"/>
   </g>
 </svg>
