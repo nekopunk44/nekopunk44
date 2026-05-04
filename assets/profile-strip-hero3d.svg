@@ -69,39 +69,50 @@
 
   <path d="M48 194H320" stroke="#2B3440"/>
 
-  <g filter="url(#wireGlow)" stroke="#7DFF9E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M722 30L786 54L832 104L824 166L778 208L716 220L656 202L620 154L622 92L658 46L722 30Z"/>
-    <path d="M658 46L706 84L786 54"/>
-    <path d="M622 92L706 84L832 104"/>
-    <path d="M620 154L700 170L824 166"/>
-    <path d="M656 202L700 170L778 208"/>
-    <path d="M658 46L700 170"/>
-    <path d="M786 54L700 170"/>
-    <path d="M832 104L700 170"/>
-    <path d="M824 166L700 170"/>
-    <path d="M778 208L700 170"/>
-    <path d="M716 220L700 170"/>
-    <path d="M656 202L700 170"/>
-    <path d="M620 154L700 170"/>
-    <path d="M622 92L700 170"/>
-    <path d="M722 30L700 170"/>
-    <path d="M658 46L716 220"/>
-    <path d="M786 54L656 202"/>
-    <path d="M832 104L716 220"/>
-    <path d="M620 154L778 208"/>
-    <path d="M622 92L824 166"/>
+  <g filter="url(#wireGlow)" stroke="#7DFF9E" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M746.4 135.7L765.5 79.0" />
+    <path d="M746.4 135.7L714.0 189.0" />
+    <path d="M746.4 135.7L683.1 140.9" />
+    <path d="M746.4 135.7L775.4 153.4" />
+    <path d="M746.4 135.7L709.3 83.4" />
+    <path d="M643.9 162.8L645.5 96.5" />
+    <path d="M643.9 162.8L714.0 189.0" />
+    <path d="M643.9 162.8L683.1 140.9" />
+    <path d="M643.9 162.8L700.8 177.6" />
+    <path d="M643.9 162.8L647.6 91.9" />
+    <path d="M765.5 79.0L743.2 86.0" />
+    <path d="M765.5 79.0L697.1 43.9" />
+    <path d="M765.5 79.0L775.4 153.4" />
+    <path d="M765.5 79.0L709.3 83.4" />
+    <path d="M645.5 96.5L743.2 86.0" />
+    <path d="M645.5 96.5L697.1 43.9" />
+    <path d="M645.5 96.5L700.8 177.6" />
+    <path d="M645.5 96.5L647.6 91.9" />
+    <path d="M714.0 189.0L683.1 140.9" />
+    <path d="M714.0 189.0L775.4 153.4" />
+    <path d="M714.0 189.0L700.8 177.6" />
+    <path d="M743.2 86.0L697.1 43.9" />
+    <path d="M743.2 86.0L775.4 153.4" />
+    <path d="M743.2 86.0L700.8 177.6" />
+    <path d="M683.1 140.9L709.3 83.4" />
+    <path d="M683.1 140.9L647.6 91.9" />
+    <path d="M697.1 43.9L709.3 83.4" />
+    <path d="M697.1 43.9L647.6 91.9" />
+    <path d="M775.4 153.4L700.8 177.6" />
+    <path d="M709.3 83.4L647.6 91.9" />
   </g>
 
-  <g opacity="0.42" stroke="#E5E7EB" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+  <g opacity="0.34" stroke="#E5E7EB" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
     <path d="M690 98L726 86L742 120L718 152L676 140L690 98Z"/>
     <path d="M690 98L718 152"/>
     <path d="M726 86L676 140"/>
   </g>
 
   <g filter="url(#dotGlow)" fill="#7DFF9E">
-    <circle cx="716" cy="220" r="3.6"/>
-    <circle cx="778" cy="208" r="3.2"/>
-    <circle cx="824" cy="166" r="3"/>
-    <circle cx="658" cy="46" r="2.8"/>
+    <circle cx="697.1" cy="43.9" r="3.1"/>
+    <circle cx="765.5" cy="79.0" r="2.8"/>
+    <circle cx="775.4" cy="153.4" r="2.8"/>
+    <circle cx="714.0" cy="189.0" r="3.2"/>
+    <circle cx="643.9" cy="162.8" r="2.9"/>
   </g>
 </svg>
