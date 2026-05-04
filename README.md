@@ -2,7 +2,17 @@
   <img src="./assets/profile-strip-render.png" alt="portfolio.os profile strip" />
 </p>
 
-[showcase](https://github.com/nekopunk44/portfolio-os) | [telegram](https://t.me/momentumx_dev) | [email](mailto:vladbredihin4@gmail.com)
+<p align="center">
+  <a href="https://github.com/nekopunk44/portfolio-os">
+    <img src="https://img.shields.io/badge/showcase-portfolio.os-0b1220?style=for-the-badge&logo=github&logoColor=7dff9e" alt="Showcase" />
+  </a>
+  <a href="https://t.me/momentumx_dev">
+    <img src="https://img.shields.io/badge/telegram-@momentumx__dev-0b1220?style=for-the-badge&logo=telegram&logoColor=7ddfff" alt="Telegram" />
+  </a>
+  <a href="mailto:vladbredihin4@gmail.com">
+    <img src="https://img.shields.io/badge/email-contact-0b1220?style=for-the-badge&logo=gmail&logoColor=e5e7eb" alt="Email" />
+  </a>
+</p>
 
 ```txt
 ~/whoami
