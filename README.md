@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nekopunk44.github.io/portfolio-os/showcase/">
+  <a href="https://github.com/nekopunk44/portfolio-os">
     <img src="https://img.shields.io/badge/showcase-portfolio.os-0b1220?style=for-the-badge&logo=github&logoColor=7dff9e" alt="Showcase" />
   </a>
   <a href="https://t.me/van_g0ck">
