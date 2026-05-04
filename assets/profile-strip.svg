@@ -1,28 +1,21 @@
 <svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="36" y1="18" x2="858" y2="224" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#05070C"/>
-      <stop offset="0.55" stop-color="#0A0D14"/>
-      <stop offset="1" stop-color="#11151E"/>
+      <stop stop-color="#040608"/>
+      <stop offset="0.58" stop-color="#080B0D"/>
+      <stop offset="1" stop-color="#101417"/>
     </linearGradient>
     <linearGradient id="panel" x1="40" y1="26" x2="854" y2="214" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#090D15"/>
-      <stop offset="1" stop-color="#0F1622"/>
+      <stop stop-color="#070A0D"/>
+      <stop offset="1" stop-color="#0D1217"/>
     </linearGradient>
-    <radialGradient id="sphereGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 120) rotate(90) scale(74)">
-      <stop offset="0" stop-color="#B4FFC8"/>
-      <stop offset="0.26" stop-color="#7DFF9E"/>
-      <stop offset="0.58" stop-color="#153126"/>
-      <stop offset="1" stop-color="#0A0F17"/>
-    </radialGradient>
-    <radialGradient id="sphereCore" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 120) rotate(90) scale(58)">
-      <stop offset="0" stop-color="#9DFFB7"/>
-      <stop offset="0.2" stop-color="#5FD47F"/>
-      <stop offset="0.5" stop-color="#163122"/>
-      <stop offset="1" stop-color="#0A0E14"/>
-    </radialGradient>
-    <filter id="halo" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="16" result="blur"/>
+    <linearGradient id="wire" x1="630" y1="52" x2="792" y2="184" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B6FFCA"/>
+      <stop offset="0.35" stop-color="#7DFF9E"/>
+      <stop offset="1" stop-color="#46C96E"/>
+    </linearGradient>
+    <filter id="wireGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -31,9 +24,9 @@
   </defs>
 
   <rect width="900" height="240" rx="26" fill="url(#bg)"/>
-  <rect x="20" y="20" width="860" height="200" rx="20" fill="url(#panel)" stroke="#232A36"/>
+  <rect x="20" y="20" width="860" height="200" rx="20" fill="url(#panel)" stroke="#1E2630"/>
 
-  <g opacity="0.06" stroke="white">
+  <g opacity="0.05" stroke="white">
     <path d="M44 58H856"/>
     <path d="M44 108H856"/>
     <path d="M44 158H856"/>
@@ -43,22 +36,48 @@
     <path d="M640 34V206"/>
   </g>
 
+  <g opacity="0.12" fill="#7DFF9E">
+    <circle cx="48" cy="78" r="2.8"/>
+    <circle cx="64" cy="94" r="2.2"/>
+    <circle cx="82" cy="66" r="2.6"/>
+    <circle cx="100" cy="110" r="1.9"/>
+    <circle cx="118" cy="84" r="2.1"/>
+    <circle cx="96" cy="140" r="2.4"/>
+  </g>
+
   <circle cx="50" cy="50" r="5" fill="#FB7185"/>
   <circle cx="70" cy="50" r="5" fill="#F59E0B"/>
   <circle cx="90" cy="50" r="5" fill="#34D399"/>
 
-  <text x="128" y="57" fill="#C7D2FE" font-family="Consolas, Monaco, monospace" font-size="18">~/vladislav/portfolio.os</text>
-  <text x="48" y="92" fill="#9CA3AF" font-family="Consolas, Monaco, monospace" font-size="15">$ launch profile --mode github</text>
+  <text x="128" y="57" fill="#BFEACB" font-family="Consolas, Monaco, monospace" font-size="18">~/vladislav/portfolio.os</text>
+  <text x="48" y="92" fill="#8F9AA8" font-family="Consolas, Monaco, monospace" font-size="15">$ launch profile --mode github</text>
 
   <text x="48" y="142" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Vladislav Bredihin</text>
   <text x="48" y="176" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="21">Fullstack / Web / Mobile / 3D</text>
 
-  <path d="M48 194H320" stroke="#30384A"/>
+  <path d="M48 194H320" stroke="#2B3440"/>
 
-  <g filter="url(#halo)">
-    <circle cx="720" cy="120" r="58" fill="url(#sphereCore)"/>
-    <circle cx="720" cy="120" r="74" fill="url(#sphereGlow)" opacity="0.78"/>
-    <ellipse cx="700" cy="98" rx="18" ry="10" fill="#D4FFE0" opacity="0.24"/>
-    <circle cx="696" cy="94" r="5" fill="#F0FFF5" opacity="0.4"/>
+  <g filter="url(#wireGlow)" stroke="url(#wire)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M718 28L792 54L840 112L828 170L774 210L702 222L634 204L594 154L594 92L632 46L718 28Z"/>
+    <path d="M594 92L690 74L792 54"/>
+    <path d="M594 154L694 174L828 170"/>
+    <path d="M632 46L676 104L702 222"/>
+    <path d="M718 28L734 120L774 210"/>
+    <path d="M840 112L734 120L634 204"/>
+    <path d="M632 46L792 54L828 170L702 222L594 92L718 28"/>
+    <path d="M594 154L718 28"/>
+    <path d="M632 204L792 54"/>
+    <path d="M594 92L828 170"/>
+    <path d="M676 104L840 112"/>
+    <path d="M676 104L594 154"/>
+    <path d="M676 104L734 120"/>
+    <path d="M734 120L594 92"/>
+    <path d="M734 120L702 222"/>
+    <path d="M734 120L632 204"/>
+    <path d="M676 104L774 210"/>
+  </g>
+
+  <g opacity="0.22" stroke="#DDE6E1" stroke-width="1.1">
+    <path d="M704 92L738 112L726 154L690 134L704 92Z"/>
   </g>
 </svg>
