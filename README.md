@@ -2,13 +2,7 @@
   <img src="./assets/profile-strip-render.png" alt="portfolio.os profile strip" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/nekopunk44/portfolio-os">showcase</a>
-  |
-  <a href="https://t.me/momentumx_dev">telegram</a>
-  |
-  <a href="mailto:vladbredihin4@gmail.com">email</a>
-</p>
+[showcase](https://github.com/nekopunk44/portfolio-os) | [telegram](https://t.me/momentumx_dev) | [email](mailto:vladbredihin4@gmail.com)
 
 ```txt
 ~/whoami
