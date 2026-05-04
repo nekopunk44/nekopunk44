@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-strip-render.png" alt="portfolio.os profile strip" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGpqbDNuZnoxMDZmeXQ0ZjJ3dTFpNHZyemF3dGhucGVmZHVpaTgyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mm8K5DCeigO3Go/giphy.gif" alt="portfolio.os profile strip" />
 </p>
 
 <p align="center">
