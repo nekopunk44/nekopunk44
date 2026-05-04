@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nekopunk44/portfolio-os">
+  <a href="https://nekopunk44.github.io/portfolio-os/showcase/">
     <img src="https://img.shields.io/badge/showcase-portfolio.os-0b1220?style=for-the-badge&logo=github&logoColor=7dff9e" alt="Showcase" />
   </a>
-  <a href="https://t.me/momentumx_dev">
-    <img src="https://img.shields.io/badge/telegram-@momentumx__dev-0b1220?style=for-the-badge&logo=telegram&logoColor=7ddfff" alt="Telegram" />
+  <a href="https://t.me/van_g0ck">
+    <img src="https://img.shields.io/badge/telegram-@van__g0ck-0b1220?style=for-the-badge&logo=telegram&logoColor=7ddfff" alt="Telegram" />
   </a>
   <a href="mailto:vladbredihin4@gmail.com">
-    <img src="https://img.shields.io/badge/email-contact-0b1220?style=for-the-badge&logo=gmail&logoColor=e5e7eb" alt="Email" />
+    <img src="https://img.shields.io/badge/email-vladbredihin4%40gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=e5e7eb" alt="Email" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@ I like projects that feel composed, memorable, and commercially sharp.
 
 ## `~/reach-out`
 
-- Telegram: [@momentumx_dev](https://t.me/momentumx_dev)
+- Telegram: [@van_g0ck](https://t.me/van_g0ck)
 - GitHub: [github.com/nekopunk44](https://github.com/nekopunk44)
 - Email: `vladbredihin4@gmail.com`
 
