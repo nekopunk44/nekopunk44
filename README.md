@@ -1,28 +1,42 @@
 # Vladislav Bredihin
 
-Fullstack developer focused on product-style websites, motion-led interfaces, and fullstack systems with a stronger visual point of view.
+Fullstack developer building product-style websites, motion-led interfaces, and fullstack systems that need more than generic polish.
 
-I like projects that feel memorable, not generic.
+I like projects that feel composed, memorable, and commercially sharp.
 
-## Focus
+## What I build
 
-- Product-minded frontend with stronger presentation
-- Fullstack builds from idea to deploy
-- Interactive showcases, dashboards, and web apps
-- Motion, atmosphere, and cleaner visual direction
+- Websites with stronger visual direction and product-style presentation
+- Fullstack apps that go from idea to deploy without losing clarity
+- Interactive showcases, dashboards, and interfaces with motion
+- Concepts that need both engineering and taste, not only implementation
 
-## Selected Work
+## What makes my work different
 
-- [portfolio-os](https://github.com/nekopunk44/portfolio-os) - main showcase repository
-- [MomentumX](https://github.com/nekopunk44/MomentumX) - agency-style platform with stronger identity and pricing structure
-- [ZenPulse-AI-Meditation-App-Prototype](https://github.com/nekopunk44/ZenPulse-AI-Meditation-App-Prototype) - calm mobile product concept with AI-oriented positioning
-- [Avtotime](https://github.com/nekopunk44/Avtotime) - larger fullstack platform scope with community, marketplace, and realtime flows
+- I care about how a product feels, not only whether it works
+- I like structure, hierarchy, and cleaner storytelling around the build
+- I am strongest when presentation and implementation matter equally
+- I prefer projects with identity over projects that look assembled from patterns
 
-## Stack
+## Selected work
+
+- [portfolio-os](https://github.com/nekopunk44/portfolio-os)  
+  Main showcase repository for my GitHub-facing presentation and visual direction.
+
+- [MomentumX](https://github.com/nekopunk44/MomentumX)  
+  Agency-style platform focused on identity, offer framing, and stronger presentation.
+
+- [ZenPulse-AI-Meditation-App-Prototype](https://github.com/nekopunk44/ZenPulse-AI-Meditation-App-Prototype)  
+  Calm mobile product concept built around AI-oriented positioning and cleaner UX storytelling.
+
+- [Avtotime](https://github.com/nekopunk44/Avtotime)  
+  Larger fullstack platform scope with community, marketplace, and realtime flows.
+
+## Working with
 
 `TypeScript` `React` `Next.js` `Node.js` `.NET` `MongoDB` `PostgreSQL` `Docker` `Three.js`
 
-## Contact
+## Reach out
 
 - Telegram: [@momentumx_dev](https://t.me/momentumx_dev)
 - GitHub: [github.com/nekopunk44](https://github.com/nekopunk44)
