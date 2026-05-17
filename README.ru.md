@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGpqbDNuZnoxMDZmeXQ0ZjJ3dTFpNHZyemF3dGhucGVmZHVpaTgyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mm8K5DCeigO3Go/giphy.gif" alt="portfolio.os profile strip" />
+  <img src="./assets/profile-banner.gif" alt="portfolio.os animated profile banner" />
 </p>
 
 <p align="center">
