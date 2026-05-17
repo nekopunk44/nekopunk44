@@ -1,4 +1,13 @@
 <p align="center">
+  <a href="https://github.com/nekopunk44/nekopunk44/blob/main/README.md">
+    <img src="https://img.shields.io/badge/language-EN-0b1220?style=for-the-badge" alt="English" />
+  </a>
+  <a href="https://github.com/nekopunk44/nekopunk44/blob/main/README.ru.md">
+    <img src="https://img.shields.io/badge/language-RU-374151?style=for-the-badge" alt="Russian" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGpqbDNuZnoxMDZmeXQ0ZjJ3dTFpNHZyemF3dGhucGVmZHVpaTgyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mm8K5DCeigO3Go/giphy.gif" alt="portfolio.os profile strip" />
 </p>
 
