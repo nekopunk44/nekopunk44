@@ -1,10 +1,7 @@
 <p align="center">
-  <a href="https://github.com/nekopunk44/nekopunk44/blob/main/README.md">
-    <img src="https://img.shields.io/badge/language-EN-0b1220?style=for-the-badge" alt="English" />
-  </a>
-  <a href="https://github.com/nekopunk44/nekopunk44/blob/main/README.ru.md">
-    <img src="https://img.shields.io/badge/language-RU-374151?style=for-the-badge" alt="Russian" />
-  </a>
+  <a href="https://github.com/nekopunk44/nekopunk44/blob/main/README.md">EN</a>
+  ·
+  <a href="https://github.com/nekopunk44/nekopunk44/blob/main/README.ru.md">RU</a>
 </p>
 
 <p align="center">
