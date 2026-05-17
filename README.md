@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://nekopunk.vladbredihin4.workers.dev">
-    <img src="https://img.shields.io/badge/showcase-portfolio.os-0b1220?style=for-the-badge&logo=github&logoColor=7dff9e" alt="Showcase" />
+    <img src="https://img.shields.io/badge/live-portfolio-0b1220?style=for-the-badge&logo=cloudflare&logoColor=f59e0b" alt="Live portfolio" />
   </a>
   <a href="https://t.me/van_g0ck">
     <img src="https://img.shields.io/badge/telegram-@van__g0ck-0b1220?style=for-the-badge&logo=telegram&logoColor=7ddfff" alt="Telegram" />
@@ -32,8 +32,8 @@ I like projects that feel composed, memorable, and commercially sharp.
 
 ## `~/selected-work`
 
-- [portfolio-os](https://github.com/nekopunk44/portfolio-os)  
-  Main showcase repository based on my current terminal-style portfolio direction.
+- [Live portfolio](https://nekopunk.vladbredihin4.workers.dev)  
+  Main showcase for my current terminal-style portfolio direction.
 
 - [MomentumX](https://github.com/nekopunk44/MomentumX)  
   Agency-style platform focused on identity, offer framing, and stronger presentation.
